@@ -90,7 +90,7 @@ The dataset contains ride-level information including:
 
 ## 📷 Dashboard Preview
 <img width="1203" height="678" alt="Overview" src="https://github.com/user-attachments/assets/9e0bd27b-07c9-4391-99ea-e04697f659b0" />
-<img width="1202" height="682" alt="Cancellation Analysis" src="https://github.com/user-attachments/assets/ff385802-0fd4-4f49-ac8d-350532ccd258" />
+<img width="1202" height="677" alt="Cancellation analysis" src="https://github.com/user-attachments/assets/8912d5df-950f-4ba0-9fef-c56fe9159091" />
 <img width="1197" height="677" alt="Customer and Driver Analysis" src="https://github.com/user-attachments/assets/fa0edd47-0e23-4e3f-b744-aa132edc99db" />
 <img width="1212" height="683" alt="Insights" src="https://github.com/user-attachments/assets/7564d200-646c-4164-ba14-a0cb87419d5f" />
 
