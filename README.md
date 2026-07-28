@@ -5,7 +5,6 @@ This project analyzes ride-sharing operations using Power BI to uncover insights
 
 The dashboard focuses on identifying patterns in ride completion, cancellation trends, peak demand hours, and service performance across different dimensions.
 
----
 
 ## 🎯 Objectives
 - Analyze ride booking funnel (Total → Completed → Cancelled → Incomplete)
@@ -14,13 +13,13 @@ The dashboard focuses on identifying patterns in ride completion, cancellation t
 - Evaluate performance across vehicle types and payment methods
 - Detect peak booking hours and operational patterns
 
----
+
 
 ## 📁 Dataset
 - Source: Kaggle  
 - Dataset Link: *(https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)*  
 
----
+
 
 ## 🧱 Data Description
 The dataset contains ride-level information including:
@@ -34,7 +33,7 @@ The dataset contains ride-level information including:
 - Operational metrics (CTAT, VTAT)
 - Location data (Pickup & Drop)
 
----
+
 
 ## 📊 Dashboard Pages
 
@@ -50,7 +49,7 @@ The dataset contains ride-level information including:
 - Revenue Trend
 - Peak Booking Hours Heatmap
 
----
+
 
 ### 🔹 2. Cancellation Analysis
 - Customer vs Driver Cancellation Comparison
@@ -59,7 +58,7 @@ The dataset contains ride-level information including:
 - Customer Cancellation Reasons
 - Driver Cancellation Reasons
 
----
+
 
 ### 🔹 3. Customer & Driver Analysis
 - Vehicle Type Performance
@@ -67,7 +66,7 @@ The dataset contains ride-level information including:
 - Avg CTAT vs VTAT Trends
 - Payment Method Distribution
 
----
+
 
 ### 🔹 4. Key Insights
 - Completion rate ~62% indicates moderate efficiency
@@ -79,14 +78,14 @@ The dataset contains ride-level information including:
 - Ratings are consistent (~4+) across vehicle types
 - UPI is the most preferred payment method
 
----
+
 
 ## 🛠️ Tools & Technologies
 - Power BI (Data Visualization)
 - Excel (Preparation)
 - DAX (Measures & Calculations)
 - Python (Data Cleaning)
----
+
 
 
 ## 📷 Dashboard Preview
@@ -95,7 +94,7 @@ The dataset contains ride-level information including:
 <img width="1197" height="677" alt="Customer and Driver Analysis" src="https://github.com/user-attachments/assets/fa0edd47-0e23-4e3f-b744-aa132edc99db" />
 <img width="1212" height="683" alt="Insights" src="https://github.com/user-attachments/assets/7564d200-646c-4164-ba14-a0cb87419d5f" />
 
----
+
 
 ## 📈 Key Learnings
 - Built end-to-end interactive dashboard
@@ -104,5 +103,4 @@ The dataset contains ride-level information including:
 - Derived insights using pattern-based analysis
 - Improved storytelling using dashboard design
 
----
 
