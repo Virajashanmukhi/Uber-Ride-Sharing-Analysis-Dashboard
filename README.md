@@ -48,8 +48,15 @@ The dataset contains ride-level information including:
 - Monthly Booking Trend
 - Revenue Trend
 - Peak Booking Hours Heatmap
+## 🔻 Funnel Analysis
 
+The ride booking lifecycle was analyzed using a funnel approach to track the progression from booking to completion and identify drop-offs.
 
+- Total bookings form the top of the funnel, representing overall demand.
+- Approximately **62% of bookings are successfully completed**, indicating moderate operational efficiency.
+- Around **25% of bookings are cancelled**, highlighting a significant drop-off that impacts revenue and service reliability.
+- A smaller portion (~6%) consists of **incomplete rides**, suggesting operational or system-level disruptions.
+- The funnel structure helps identify **key loss points**, enabling targeted improvements in cancellation reduction and service fulfillment.
 
 ### 🔹 2. Cancellation Analysis
 - Customer vs Driver Cancellation Comparison
