@@ -79,7 +79,7 @@ The ride booking lifecycle was analyzed using a funnel approach to track the pro
 - Completion rate ~62% indicates moderate efficiency
 - Cancellation rate (~25%) is relatively high
 - Peak bookings occur during evening hours
-- Customer cancellations are slightly higher than driver cancellations
+- Driver cancellations are slightly higher than Customer cancellations
 - Higher cancellations observed during late hours
 - Certain locations show higher cancellation concentration
 - Ratings are consistent (~4+) across vehicle types
@@ -97,7 +97,7 @@ The ride booking lifecycle was analyzed using a funnel approach to track the pro
 
 ## 📷 Dashboard Preview
 <img width="1203" height="678" alt="Overview" src="https://github.com/user-attachments/assets/9e0bd27b-07c9-4391-99ea-e04697f659b0" />
-<img width="1202" height="677" alt="Cancellation analysis" src="https://github.com/user-attachments/assets/8912d5df-950f-4ba0-9fef-c56fe9159091" />
+<img width="1204" height="677" alt="Cancellation Analysis" src="https://github.com/user-attachments/assets/a1447d20-087c-49e3-aa51-0116152ad47f" />
 <img width="1197" height="677" alt="Customer and Driver Analysis" src="https://github.com/user-attachments/assets/fa0edd47-0e23-4e3f-b744-aa132edc99db" />
 <img width="1212" height="683" alt="Insights" src="https://github.com/user-attachments/assets/7564d200-646c-4164-ba14-a0cb87419d5f" />
 
